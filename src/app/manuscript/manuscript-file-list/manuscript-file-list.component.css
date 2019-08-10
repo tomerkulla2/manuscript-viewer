@@ -1,13 +1,13 @@
 #viewwrapper{
   position: relative;
   left: -29px;
-  max-height: 100vh;
-  min-height: 400px;
-  overflow-y: auto;
 }
 
 #filewrapper{
   width: 60%;
+  max-height: 100vh;
+  min-height: 400px;
+  overflow-y: auto;
 }
 
 .list-wrapper{
