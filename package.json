@@ -29,7 +29,7 @@
     "@ng-bootstrap/ng-bootstrap": "^4.0.0",
     "body-parser": "^1.18.3",
     "core-js": "^2.5.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-saver": "^2.0.0",
     "ftp": "^0.3.10",
     "method-override": "^3.0.0",
